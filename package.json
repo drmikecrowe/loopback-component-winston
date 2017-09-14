@@ -26,6 +26,7 @@
   "homepage": "https://github.com/kolach/loopback-component-winston#readme",
   "dependencies": {
     "lodash": "^4.11.1",
+    "express-winston": "github:drmikecrowe/express-winston",
     "winston": "^2.2.0"
   },
   "devDependencies": {
